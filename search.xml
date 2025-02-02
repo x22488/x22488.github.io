@@ -18,4 +18,34 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>template</title>
+    <url>/posts/d87f7e0c.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试。" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="5f8b5da853d6f530f384afa8a6d3b4d40e4fee8bb7fd40a91f877869ccad9fe4">26bb1f33580dc8aaee9ce16566c8f5e55c12687af9d9ac67ce3e32e4e7783bab36138468a6c484b940b4be6ad66cfac9b687006c5367d55da21d5eb8c4c40e9baf3cfafabf96dc4c66a1dcc103401d8e78412e366d68d23e3c55134f7691e3e3</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-blink">
+      <input class="hbe hbe-input-field hbe-input-field-blink" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-blink" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-blink" data-content="您好, 这里需要密码。">您好, 这里需要密码。</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>电子取证</category>
+      </categories>
+      <tags>
+        <tag>计算机</tag>
+        <tag>手机</tag>
+        <tag>服务器</tag>
+        <tag>物联网</tag>
+        <tag>内存取证</tag>
+        <tag>流量分析</tag>
+        <tag>APK</tag>
+        <tag>二进制逆向</tag>
+        <tag>数据分析</tag>
+      </tags>
+  </entry>
 </search>
